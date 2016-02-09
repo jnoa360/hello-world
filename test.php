@@ -6,3 +6,4 @@ phpinfo();
 print "test";
 
 print "yep";
+print "yep2";
